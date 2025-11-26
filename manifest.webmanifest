@@ -1,0 +1,9 @@
+{
+  "name": "業務効率化アプリ Full",
+  "short_name": "OpsFull",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0ea5e9",
+  "icons": []
+}
